@@ -31,8 +31,8 @@ Then run the Facial_Recognition_Part3.py. This will give the output.
 
 ### error
 ImportError: No module named  해결법
-
+```
   $ workon your_env_name
   $ pip install imutils
-
+```
 
