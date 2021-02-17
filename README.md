@@ -1,5 +1,6 @@
 # Grad-pj_ kim,moon,son
 ## unknown_face_classifier
+### workon cv440
 
 ### error
 ImportError: No module named  해결법
